@@ -3,4 +3,5 @@ Fake News Detection using Machine Learning is a project which could able to dete
 
 Here, in this project I've used Multinomial Naive Bayes Model to predict whether given entered news is correct or not.
 
-# If you like my work, buy me a coffee ☕☕ <a href="https://www.buymeacoffee.com/madhupiot">Brew it now</a>
+# If you like my work, buy me a coffee ☕☕ 
+<a href="https://www.buymeacoffee.com/madhupiot">Brew it now</a>

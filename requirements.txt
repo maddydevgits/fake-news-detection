@@ -1,0 +1,8 @@
+gunicorn
+nltk
+flask
+pandas
+sklearn
+newspaper3k
+numpy
+flask-cors
