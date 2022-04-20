@@ -26,5 +26,3 @@ Here, in this project I've used Multinomial Naive Bayes Model to predict whether
 3. Build model using model.py
 4. Run the main program, app.py to host a web server
 
-# If you like my work, buy me a coffee ☕☕ 
-<a href="https://www.buymeacoffee.com/madhupiot">Brew it now</a>
